@@ -1,0 +1,17 @@
+{
+    "name": "shuklajasmin/track",
+    "description": "Track package helps you track your every URL. Also, the package delivered to you the number of open rates and delivery rate.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shuklajasmin\\Track\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jasmin Shukla",
+            "email": "mr.jasmin.shukla@gmail.com"
+        }
+    ],
+    "require": {}
+}
