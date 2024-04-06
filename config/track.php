@@ -5,10 +5,9 @@ return [
 
         /*
         |--------------------------------------------------------------------------
-        | Chunk size
+        | Limit size
         |--------------------------------------------------------------------------
         |
-        | When using FromQuery, the query is automatically chunked.
         | Here you can specify how big the chunk should be.
         |
         */
